@@ -1,7 +1,6 @@
 ```markdown
 # 🛠️ Welcome to **Ashin Shanly's Codeverse** 🌌
 
-```bash
 $ whoami
 >>> Backend Alchemist 🧙‍♂️ | Systems Tinkerer ⚙️ | Code Poet ✨
 ```
