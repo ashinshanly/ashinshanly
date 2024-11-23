@@ -1,5 +1,3 @@
-Here’s a revamped and code-heavy creative `README.md` for a backend engineer:
-
 ```markdown
 # 🛠️ Welcome to **Ashin Shanly's Codeverse** 🌌
 
