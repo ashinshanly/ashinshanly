@@ -150,13 +150,6 @@ def debug_life():
 
 ---
 
-**Code is poetry, and the backend is where the magic happens. Let’s create something extraordinary!**
-```markdown
+**Code is poetry, and backend is where the magic happens. Let’s create something extraordinary!**
 
-### Key Additions:
-1. **Code-Snippet Styling**: Introduces snippets in Python, JavaScript, Ruby, etc., to showcase versatility.
-2. **Custom Code Philosophy**: Adds a creative personal touch.
-3. **Dynamic Project Descriptions**: Each project is explained through code.
-4. **Easter Eggs**: Fun and quirky snippets like `debug_life`.
 
-This profile is designed to impress developers while adding a personal and creative flair! Let me know if you'd like further tweaks.
