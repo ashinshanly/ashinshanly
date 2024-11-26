@@ -1,6 +1,6 @@
-```markdown
-**🛠️ Welcome to my Codeverse 🌌**
+## 🛠️ Welcome to my Codeverse 🌌**
 
+```markdown
 $ whoami
 >>> Backend Alchemist 🧙‍♂️ | Systems Tinkerer ⚙️ | Code Poet ✨
 
