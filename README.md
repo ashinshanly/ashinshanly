@@ -1,5 +1,5 @@
 ```markdown
-🛠️ Welcome to my Codeverse 🌌
+**🛠️ Welcome to my Codeverse 🌌**
 
 $ whoami
 >>> Backend Alchemist 🧙‍♂️ | Systems Tinkerer ⚙️ | Code Poet ✨
@@ -139,6 +139,6 @@ $ connect --platform email
 
 ---
 
-**Code is poetry, and backend is where the magic happens. Let’s create something extraordinary!**
+**Code is magic, backend is where it's cast. Let's create something extraordinary!**
 
 
