@@ -1,8 +1,11 @@
 ```markdown
-# 🛠️ Welcome to **Ashin Shanly's Codeverse** 🌌
+# 🛠️ Welcome to my Codeverse 🌌
 
 $ whoami
 >>> Backend Alchemist 🧙‍♂️ | Systems Tinkerer ⚙️ | Code Poet ✨
+
+$ cat /Users/ashinshanly/myPortfolio
+>>> https://ashinshanly.github.io/
 ```
 
 ---
