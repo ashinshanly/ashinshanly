@@ -1,5 +1,5 @@
 ```markdown
-# 🛠️ Welcome to my Codeverse 🌌
+🛠️ Welcome to my Codeverse 🌌
 
 $ whoami
 >>> Backend Alchemist 🧙‍♂️ | Systems Tinkerer ⚙️ | Code Poet ✨
