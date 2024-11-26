@@ -128,26 +128,13 @@ puts principles
 
 ```bash
 $ connect --platform github
->>> https://github.com/AshinShanly
+>>> https://github.com/ashinshanly
 
 $ connect --platform linkedin
 >>> https://linkedin.com/in/AshinShanly
 
 $ connect --platform email
->>> ashinshanly@example.com
-```
-
----
-
-## 🔥 Easter Egg: Debug Life
-```python
-# Because life throws exceptions too 😅
-def debug_life():
-    while True:
-        try:
-            print("Keep coding, keep growing 🚀")
-        except LifeException as e:
-            print(f"Oops! {e}. Refactoring life...")
+>>> ashinkoottala@gmail.com
 ```
 
 ---
