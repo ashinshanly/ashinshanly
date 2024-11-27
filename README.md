@@ -18,9 +18,11 @@ class BackendAlchemy:
         self.languages = ["Python 🐍", "Java ☕", "C++ 💻"]
         self.databases = ["Oracle DB 🗄️", "MongoDB 📂"]
         self.skills = {
-            "APIs": "High-Performance RESTful and GraphQL APIs 🚀",
-            "Pipelines": "Global Scale Distributed PySpark and PL/SQL Data Pipelines 🌊",
-            "Optimization": "Refining Systems for Speed & Elegance 🧬",
+            "Programming Python, Java, C/C++, SQL, JavaScript, Django 🚀",
+            "Cloud Platforms": "Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP) 🌊",
+            "Big Data Technologies": "Apache Spark (PySpark), Hadoop 🧬",
+            "DevOps": "TensorFlow, CI/CD, Terraform, Git, Docker, Kubernetes 💻",
+            "Tools": "Android Studio, XAMPP 🤖",
         }
 
     def design(self):
