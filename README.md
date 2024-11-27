@@ -16,10 +16,10 @@ $ cat /Users/ashinshanly/myPortfolio
 class BackendAlchemy:
     def __init__(self):
         self.languages = ["Python 🐍", "Java ☕", "C++ 💻"]
-        self.databases = ["PostgreSQL 🗄️", "MongoDB 📂"]
+        self.databases = ["Oracle DB 🗄️", "MongoDB 📂"]
         self.skills = {
             "APIs": "High-Performance RESTful and GraphQL APIs 🚀",
-            "Pipelines": "PL/SQL & PySpark Data Pipelines 🌊",
+            "Pipelines": "Global Scale Distributed PySpark and PL/SQL Data Pipelines 🌊",
             "Optimization": "Refining Systems for Speed & Elegance 🧬",
         }
 
@@ -27,7 +27,7 @@ class BackendAlchemy:
         return "Architecting scalable solutions with modular elegance."
 
     def innovate(self):
-        return "Experimenting with Tailscale 🌐, ML 🤖, and neural networks 🧠."
+        return "Experimenting with PySpark 🌐, ML 🤖, and neural networks 🧠."
 
     def __str__(self):
         return "Backend Wizardry with a sprinkle of creativity!"
@@ -52,7 +52,7 @@ frameworks_and_tools:
   - FastAPI & Flask: "APIs that are quick and reliable ⚡."
 
 databases:
-  - PostgreSQL: "Relational databases done right 🗄️."
+  - OracleDB: "Relational databases done right 🗄️."
   - MongoDB: "Flexibility for unstructured data 📂."
 ```
 
@@ -95,9 +95,9 @@ class ImageCaptioning:
 ```javascript
 function nextBigThing() {
   const currentProjects = [
-    "Scalable API Design",
+    "Scalable Distributed Data Pipelines",
     "Secure Networking with Tailscale",
-    "Backend ML Integrations",
+    "Building an Enterprise Wide Generative AI Service",
   ];
 
   return currentProjects.map(project => `Exploring ${project} 🚀`);
@@ -111,7 +111,7 @@ console.log(nextBigThing());
 ## 💡 My Code Philosophy
 
 ```ruby
-# The laws of Ashin's Codeverse:
+# The laws of My Codeverse:
 def principles
   {
     "Keep It Clean": "Readable code > complex code",
