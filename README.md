@@ -1,4 +1,4 @@
-## 🛠️ Welcome to my Codeverse 🌌 
+## 🛠️ Welcome to my Codeverse 
 
 ```markdown
 $ whoami
