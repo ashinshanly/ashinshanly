@@ -51,7 +51,7 @@ languages:
 frameworks_and_tools:
   - Spark: "Big Data? Easy. 🔥"
   - Docker & Kubernetes: "Cloud orchestration simplified ☁️."
-  - FastAPI & Flask: "APIs that are quick and reliable ⚡."
+  - PyTorch, Tensorflow, Keras: "ML is the future ⚡."
 
 databases:
   - OracleDB: "Relational databases done right 🗄️."
@@ -99,7 +99,7 @@ function nextBigThing() {
   const currentProjects = [
     "Scalable Distributed Data Pipelines",
     "Secure Networking with Tailscale",
-    "Building an Enterprise Wide Generative AI Service",
+    "Building an Enterprise-Wide Generative AI Service",
   ];
 
   return currentProjects.map(project => `Exploring ${project} 🚀`);
