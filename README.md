@@ -2,7 +2,7 @@
 
 ```markdown
 $ whoami
->>> Backend Alchemist 🧙‍♂️ | Systems Tinkerer ⚙️ | Code Poet ✨
+>>> Backend Alchemist | Systems Tinkerer
 
 $ cat /Users/ashinshanly/myPortfolio
 >>> https://ashinshanly.github.io/
@@ -15,27 +15,27 @@ $ cat /Users/ashinshanly/myPortfolio
 ```python
 class BackendAlchemy:
     def __init__(self):
-        self.languages = ["Python 🐍", "Java ☕", "C++ 💻"]
-        self.databases = ["Oracle DB 🗄️", "MongoDB 📂"]
+        self.languages = ["Python", "Java", "C++"]
+        self.databases = ["Oracle DB", "MongoDB"]
         self.skills = {
-            "Programming Python, Java, C/C++, SQL, JavaScript, Django 🚀",
-            "Cloud Platforms": "Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP) 🌊",
-            "Big Data Technologies": "Apache Spark (PySpark), Hadoop 🧬",
-            "DevOps": "TensorFlow, CI/CD, Terraform, Git, Docker, Kubernetes 💻",
-            "Tools": "Android Studio, XAMPP 🤖",
+            "Programming Languages & Frameworks": "Python, C/C++, Java, Javascript, SQL, PL/SQL, JavaScript, Django, TensorFlow, PyTorch, Keras",
+            "Cloud Platforms": "Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP)",
+            "Big Data Technologies": "Apache Spark (PySpark), Hadoop, Delta Lake",
+            "DevOps": "CI/CD, Terraform, Git, Docker, Kubernetes",
+            "Tools": "Android Studio, XAMPP,",
         }
 
     def design(self):
         return "Architecting scalable solutions with modular elegance."
 
     def innovate(self):
-        return "Experimenting with PySpark 🌐, ML 🤖, and neural networks 🧠."
+        return "Experimenting with PySpark and Implicit Neural Network Representations."
 
     def __str__(self):
-        return "Backend Wizardry with a sprinkle of creativity!"
+        return "Backend Wizardry with a sprinkle of creativity."
 
-ash = BackendAlchemy()
-print(ash)
+ashin = BackendAlchemy()
+print(ashin)
 ```
 
 ---
@@ -44,18 +44,18 @@ print(ash)
 
 ```yaml
 languages:
-  - Python: "Clean, powerful, and my favorite weapon of choice 🐍."
-  - Java: "Because strong typing = strong systems ☕."
-  - C++: "For when performance is mission-critical 💻."
+  - Python: "Clean, powerful, and my favorite weapon of choice."
+  - Java: "Because strong typing = strong systems."
+  - C++: "For when performance is mission-critical."
 
 frameworks_and_tools:
-  - Spark: "Big Data? Easy. 🔥"
-  - Docker & Kubernetes: "Cloud orchestration simplified ☁️."
-  - PyTorch, Tensorflow, Keras: "ML is the future ⚡."
+  - Spark: "Big Data? Easy."
+  - Docker & Kubernetes: "Cloud orchestration simplified."
+  - PyTorch, Tensorflow, Keras: "ML is the future."
 
 databases:
-  - OracleDB: "Relational databases done right 🗄️."
-  - MongoDB: "Flexibility for unstructured data 📂."
+  - OracleDB: "Relational databases done right."
+  - MongoDB: "Flexibility for unstructured data."
 ```
 
 ---
@@ -97,8 +97,8 @@ class ImageCaptioning:
 ```javascript
 function nextBigThing() {
   const currentProjects = [
-    "Scalable Distributed Data Pipelines",
-    "Secure Networking with Tailscale",
+    "Scalable Distributed Spark Data Pipelines for processing petabyte-scale data daily",
+    "Real-time multiplayer chess",
     "Building an Enterprise-Wide Generative AI Service",
   ];
 
@@ -113,12 +113,12 @@ console.log(nextBigThing());
 ## 💡 My Code Philosophy
 
 ```ruby
-# The laws of My Codeverse:
+# The laws of my codeverse:
 def principles
   {
     "Keep It Clean": "Readable code > complex code",
-    "Fail Fast": "Catch bugs early, ship faster 🐞",
-    "Scalability Matters": "Build for the future 🚀"
+    "Fail Fast": "Catch bugs early, ship faster",
+    "Scalability Matters": "Build for the future"
   }
 end
 puts principles
@@ -141,6 +141,6 @@ $ connect --platform email
 
 ---
 
-**Code is magic, backend is where it's cast. Let's create something extraordinary!**
+**Code is magic, backend is where it's cast. Let's create something extraordinary.**
 
 
