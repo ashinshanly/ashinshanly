@@ -2,7 +2,7 @@
 
 ```markdown
 $ whoami
->>> Backend Alchemist | Systems Tinkerer
+>>> Backend/ML Engineer
 
 $ cat /Users/ashinshanly/myPortfolio
 >>> https://ashinshanly.github.io/
