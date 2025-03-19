@@ -1,4 +1,4 @@
-## 🛠️ Welcome to my Codeverse 
+## Welcome to my Codeverse 
 
 ```markdown
 $ whoami
@@ -62,7 +62,7 @@ databases:
 
 ## Projects: Code in Action
 
-### 🌌 EXO Project
+### EXO Project
 ```python
 from tailscale import SecureNetwork
 
@@ -75,7 +75,7 @@ class EXOProject:
         print("Building secure, scalable systems that connect seamlessly!")
 ```
 
-### 🖼️ Image Captioning System
+### Image Captioning System
 ```python
 # Developed a Siamese-GCN architecture with KAF and LSTM-attention for image captioning
 from deep_learning import SiameseGCN, LSTMAttention
