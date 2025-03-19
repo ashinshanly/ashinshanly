@@ -10,7 +10,7 @@ $ cat /Users/ashinshanly/myPortfolio
 
 ---
 
-## 🌟 The Craftsmanship of Backend Engineering
+## The Craftsmanship of Backend Engineering
 
 ```python
 class BackendAlchemy:
@@ -40,7 +40,7 @@ print(ashin)
 
 ---
 
-## 📂 The Tech Stack
+## The Tech Stack
 
 ```yaml
 languages:
@@ -60,7 +60,7 @@ databases:
 
 ---
 
-## 🧩 Projects: Code in Action
+## Projects: Code in Action
 
 ### 🌌 EXO Project
 ```python
@@ -92,7 +92,7 @@ class ImageCaptioning:
 
 ---
 
-## 🌱 What I’m Building Next
+## What I’m Building Next
 
 ```javascript
 function nextBigThing() {
@@ -110,7 +110,7 @@ console.log(nextBigThing());
 
 ---
 
-## 💡 My Code Philosophy
+## My Code Philosophy
 
 ```ruby
 # The laws of my codeverse:
@@ -126,7 +126,7 @@ puts principles
 
 ---
 
-## 🤝 Let’s Collaborate
+## Let’s Collaborate
 
 ```bash
 $ connect --platform github
