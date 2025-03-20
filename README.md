@@ -10,7 +10,7 @@ $ cat /Users/ashinshanly/myPortfolio
 
 ---
 
-## The Craftsmanship of Backend Engineering
+## Craftsmanship of Building Stuff
 
 ```python
 class BackendAlchemy:
@@ -40,7 +40,7 @@ print(ashin)
 
 ---
 
-## The Tech Stack
+## Tech Stack
 
 ```yaml
 languages:
