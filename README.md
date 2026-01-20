@@ -141,6 +141,6 @@ $ connect --platform email
 
 ---
 
-**Code is magic, backend is where it's cast. Let's create something extraordinary.**
+**Let's create something fun together.**
 
 
